@@ -1,0 +1,7 @@
+from_station,to_station,travel_time
+Navy,Gallery,259.992
+Gallery,Foggy,239.994
+Foggy,Rosslyn,180
+Gallery,Dupont,179.994
+Dupont,Woodley,120
+Woodley,AU,239.994
