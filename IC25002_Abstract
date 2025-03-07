@@ -1,0 +1,25 @@
+Johnny Mallory, Dylan Nelson, Isaiah Shuchman – 06MindPetal
+6 March 2025
+
+This project investigates ridership trends on the Washington, DC Metro to evaluate the potential
+benefits of a proposed late-night express train service. With a focus on areas of high
+entertainment and nightlife juxtaposed with residential hubs favored by younger
+populations—such as university districts—the study seeks to address transit challenges faced
+during off-peak hours. The analysis leverages a robust dataset encompassing historical ridership
+data, demographic distributions, and urban mobility patterns, offering a comprehensive
+perspective on current transit dynamics.
+
+Central to our approach is the application of a Dijkstra algorithm to optimize potential new
+transit lines. This method allows for the efficient identification of optimal routing paths that
+connect key nodes within the network, ensuring minimal transit times and maximized
+accessibility for target demographics. By integrating these algorithmically derived pathways with
+established ridership data, the project forecasts potential trends in service uptake and overall
+system load, particularly during late-night hours.
+
+Furthermore, the study explores how this innovative express service could alleviate congestion
+on conventional metro lines and enhance the overall commuter experience. By providing a direct
+and timely connection between nightlife and residential areas, the proposed service aims to
+encourage public transit use among young populations, potentially reducing reliance on personal
+vehicles and mitigating urban traffic congestion. The results of this analysis are intended to
+inform transportation planning authorities and stakeholders about the viability and projected
+impact of implementing a specialized late-night express train service in Washington, DC Metro.
